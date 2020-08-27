@@ -161,6 +161,8 @@ a {
 .podcast-container{
     display: flex;
     flex-flow: row wrap;
+    align-items: center;
+    justify-content: center;
 }
 iframe {
     display: block;
